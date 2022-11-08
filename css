@@ -1,0 +1,5 @@
+.myBanner {
+background: yellow;
+background-image: linear-gradient (to left, red, blue);
+colour: pink;
+}
